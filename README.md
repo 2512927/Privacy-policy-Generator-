@@ -1,6 +1,6 @@
 # Privacy-policy-Generator-
-index.html
-<!DOCTYPE html>
+# index.html
+
 <html lang="hi">
 <head>
 <meta charset="UTF-8">

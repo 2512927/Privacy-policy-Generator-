@@ -216,7 +216,7 @@ Privacy Policy आपकी वेबसाइट को:
 
 <div class="cta">
 <p>🔐 अभी Free Privacy Policy बनाएं</p>
-<a href="https://privacy-policy-generator-tool-body-font.html">Generate Privacy Policy</a>
+<a href="https://privacypolicygenartor.blogspot.com/2025/10/privacy-policy-generatorprofessional.html">Generate Privacy Policy</a>
 </div>
 
 <footer>

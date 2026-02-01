@@ -142,7 +142,7 @@ Privacy Policy Generator एक ऑनलाइन टूल है जिसक
 </p>
 
 <div class="highlight">
-👉 Tool Link: <a href="https://devendratools.blogspot.com/2025/10/privacy-policy-generator-tool-body-font.html_">Privacy Policy Generator Tool</a>
+👉 Tool Link: <a href="privacy-policy-generator-tool-body-font.html_">Privacy Policy Generator Tool</a>
 </div>
 
 <h2>✅ Privacy Policy Generator के फायदे</h2>
